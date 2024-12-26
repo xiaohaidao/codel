@@ -190,6 +190,8 @@ Plug 'skywind3000/gutentags_plus'
 Plug 'ojroques/vim-oscyank'
 " font size
 Plug 'schmich/vim-guifont'
+" file changed show
+Plug 'mhinz/vim-signify'
 
 " YouCompleteMe
 if has("Win64")
